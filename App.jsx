@@ -1,3 +1,4 @@
+import React from 'https://esm.sh/react@18.3.1'
 {
   "name": "primetap-site",
   "private": true,
